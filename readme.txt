@@ -1,5 +1,6 @@
 === WP Russian Quicktags ===
 Contributors: flector
+Donate link: http://goo.gl/uhnS7k
 Tags: comments, quicktags
 Requires at least: 2.3
 Tested up to: 4.0
@@ -16,6 +17,16 @@ Stable tag: 1.01
 
 
 PS Этот плагин был написан на основе плагина [WP Comment Quicktags Plus](http://lmbbox.com/projects/lmbbox-comment-quicktags/wp-comment-quicktags-plus/) от [Thomas Montague ](http://lmbbox.com/).
+
+Если вам понравился мой плагин, то `пожалуйста` поставьте ему 5 звезд.
+
+Другие мои плагины:
+
+- [Cool Tag Cloud](http://wordpress.org/plugins/cool-tag-cloud/) - классный виджет вывода облака меток.
+- [BBSpoiler](http://wordpress.org/plugins/bbspoiler/) - спойлер в стиле rutracker.org. 
+- [Hide My Dates](http://wordpress.org/plugins/hide-my-dates/) - плагин скрывает даты в записей от гугла. 
+- [Noindex Links](http://wordpress.org/plugins/noindex-links/) - тег &lt;noindex&gt; для ссылок в комментариях. 
+- [Russian Number Comments](http://wordpress.org/plugins/russian-number-comments/) - правильное склонение числа комментариев. 
 
 == Installation ==
 
