@@ -20,13 +20,6 @@ PS Этот плагин был написан на основе плагина 
 
 Если вам понравился мой плагин, то `пожалуйста` поставьте ему 5 звезд.
 
-Другие мои плагины:
-
-- [Cool Tag Cloud](http://wordpress.org/plugins/cool-tag-cloud/) - классный виджет вывода облака меток.
-- [BBSpoiler](http://wordpress.org/plugins/bbspoiler/) - спойлер в стиле rutracker.org. 
-- [Hide My Dates](http://wordpress.org/plugins/hide-my-dates/) - плагин скрывает даты в записей от гугла. 
-- [Noindex Links](http://wordpress.org/plugins/noindex-links/) - тег &lt;noindex&gt; для ссылок в комментариях. 
-- [Russian Number Comments](http://wordpress.org/plugins/russian-number-comments/) - правильное склонение числа комментариев. 
 
 == Installation ==
 
