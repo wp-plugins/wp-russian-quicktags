@@ -3,8 +3,8 @@ Contributors: flector
 Donate link: http://goo.gl/uhnS7k
 Tags: comments, quicktags
 Requires at least: 2.3
-Tested up to: 4.0
-Stable tag: 1.01
+Tested up to: 4.1
+Stable tag: 1.02
 
 Плагин выводит панель с русскими кнопками форматирования текста в комментариях.
 
@@ -53,6 +53,9 @@ PS Этот плагин был написан на основе плагина 
 3. Вывод ссылки "Цитировать".
 
 == Changelog ==
+
+= 1.02 =
+* Поправлена совместимость с WordPress 4.1
 
 = 1.01 =
 * Обновлен файл стилей (решен конфликт с темами, где используются bootstrap)

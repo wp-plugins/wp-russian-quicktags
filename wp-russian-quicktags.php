@@ -3,7 +3,7 @@
 Plugin Name: WP Russian Quicktags
 Plugin URI: http://www.wordpressplugins.ru/komments/wp-comment-quicktags-plus.html
 Description: Плагин выводит симпатичную панель с кнопками форматирования текста в комментариях и ссылку на "Цитировать". Подробно об установке и настройке этого плагина вы можете прочитать на <a href="http://www.wordpressplugins.ru/komments/wp-comment-quicktags-plus.html">странице</a> плагина.
-Version: 1.01
+Version: 1.02
 Author: Flector
 Author URI: http://www.wordpressplugins.ru/
 */ 
@@ -11,7 +11,7 @@ Author URI: http://www.wordpressplugins.ru/
 function wrq_change_comment_form_defaults($default) {
   $commenter = wp_get_current_commenter();
   $purl = plugins_url(); 
-  $url = $purl . '/wp-russian-quicktags/scripts.php'; 
+  $url = $purl . '/wp-russian-quicktags/scripts.js'; 
   $oldcommentfield = $default['comment_field'];
   $default['comment_field'] = str_replace(
             '<textarea',
