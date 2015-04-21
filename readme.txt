@@ -3,7 +3,7 @@ Contributors: flector
 Donate link: http://goo.gl/uhnS7k
 Tags: comments, quicktags
 Requires at least: 2.3
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.03
 
 Плагин выводит панель с русскими кнопками форматирования текста в комментариях.
