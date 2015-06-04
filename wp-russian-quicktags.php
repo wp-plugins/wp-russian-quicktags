@@ -5,7 +5,7 @@ Plugin URI: http://www.wordpressplugins.ru/komments/wp-comment-quicktags-plus.ht
 Description: Плагин выводит симпатичную панель с кнопками форматирования текста в комментариях и ссылку на "Цитировать". Подробно об установке и настройке этого плагина вы можете прочитать на <a href="http://www.wordpressplugins.ru/komments/wp-comment-quicktags-plus.html">странице</a> плагина.
 Version: 1.04
 Author: Flector
-Author URI: http://www.wordpressplugins.ru/
+Author URI: https://profiles.wordpress.org/flector#content-plugins
 */ 
 
 function wrq_change_comment_form_defaults($default) {
